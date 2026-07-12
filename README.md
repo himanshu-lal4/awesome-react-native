@@ -365,6 +365,7 @@ Components and native modules.
 * [react-native-easy-toast ★616](https://github.com/crazycodeboy/react-native-easy-toast) - A react native module to show toast like android, it works on iOS and Android.
 * [react-router-native ★612](https://github.com/jmurzy/react-router-native) - A routing library for React Native that strives for sensible API parity with [React Router](https://github.com/reactjs/react-router)
 * [react-native-copilot ★595](https://github.com/okgrow/react-native-copilot) - Step-by-step walkthrough for your react native app
+* [react-native-tour-guide](https://github.com/himanshu-lal4/react-native-tour-guide) - App tours, walkthroughs and coach marks with an auto shape-matching spotlight, smart auto-scroll and themeable tooltips; runs in Expo Go with zero native dependencies.
 * [react-native-photo-browser ★565](https://github.com/halilb/react-native-photo-browser) - Local and remote photo browser with captions, selections and grid view support.
 * [react-native-calendar ★559](https://github.com/christopherdro/react-native-calendar) - Calendar Component for React Native
 * [react-native-calendar-events ★510](https://github.com/wmcmahan/react-native-calendar-events)
