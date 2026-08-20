@@ -307,7 +307,7 @@ Components and native modules.
 * [react-native-paper ★2218](https://github.com/callstack/react-native-paper) - Material design for React Native
 * [react-native-swipeout ★2194](https://github.com/dancormier/react-native-swipeout) - iOS-style swipeout buttons behind component
 * [react-native-blur ★2172](https://github.com/Kureev/react-native-blur) - React Native Blur component
-* [react-native-liquid-glassmorphism](https://github.com/himanshu-lal4/react-native-liquid-glassmorphism) - Authentic Liquid Glass on iOS and Android from one component: native UIGlassEffect on iOS 26, a real-time AGSL refraction shader on Android, custom shapes, interactive touch/tilt, Expo config plugin, TypeScript.
+* [react-native-liquid-glassmorphism](https://github.com/himanshu-lal4/react-native-liquid-glassmorphism) - Liquid Glass for iOS and Android - native UIGlassEffect on iOS 26, an AGSL refraction shader on Android, and glass views that merge into one liquid body on contact.
 * [react-native-progress ★2069](https://github.com/oblador/react-native-progress) - Progress indicators and spinners for React Native using ReactART.
 * [react-native-textinput-effects ★2062](https://github.com/halilb/react-native-textinput-effects) - Text inputs with custom label and icon animations for iOS and Android. Built by react native and inspired by Codrops.
 * [react-native-modalbox ★2043](https://github.com/maxs15/react-native-modalbox) - A component for react-native
